@@ -1,6 +1,6 @@
-# Console Application README Example
+# README
 
-## About Me Quiz
+## Snakes Cafe
 
 Lab01-Intro to Python
 
